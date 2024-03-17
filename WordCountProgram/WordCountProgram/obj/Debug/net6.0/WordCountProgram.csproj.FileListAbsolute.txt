@@ -1,0 +1,5 @@
+C:\Users\rifki\Desktop\dotnet_work\myprojects\WordCountProgram\WordCountProgram\obj\Debug\net6.0\WordCountProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rifki\Desktop\dotnet_work\myprojects\WordCountProgram\WordCountProgram\obj\Debug\net6.0\WordCountProgram.AssemblyInfoInputs.cache
+C:\Users\rifki\Desktop\dotnet_work\myprojects\WordCountProgram\WordCountProgram\obj\Debug\net6.0\WordCountProgram.AssemblyInfo.cs
+C:\Users\rifki\Desktop\dotnet_work\myprojects\WordCountProgram\WordCountProgram\obj\Debug\net6.0\WordCountProgram.csproj.CoreCompileInputs.cache
+C:\Users\rifki\Desktop\dotnet_work\myprojects\WordCountProgram\WordCountProgram\obj\Debug\net6.0\WordCountProgram.csproj.AssemblyReference.cache
